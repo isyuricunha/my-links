@@ -1,0 +1,32 @@
+{
+  "name": "Fatih Yavuz",
+  "description": "Backend Engineer @Spotify",
+  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "links": [
+    {
+      "title": "Instagram",
+      "url": "https://bit.ly/3LaBWc2",
+      "icon": "instagram"
+    },
+    {
+      "title": "Twitter",
+      "url": "http://bit.ly/3CCjbJk",
+      "icon": "twitter"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "http://bit.ly/3GfuFF1",
+      "icon": "linkedin"
+    },
+    {
+      "title": "GitHub",
+      "url": "http://bit.ly/3GfuTvR",
+      "icon": "github"
+    },
+    {
+      "title": "GitLab",
+      "url": "http://bit.ly/3Cejhqr",
+      "icon": "gitlab"
+    }
+  ]
+}
