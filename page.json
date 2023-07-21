@@ -1,32 +1,27 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Yuri Cunha",
+  "description": "Junior Database Administrator",
+  "image_url": "https://avatars.githubusercontent.com/u/115634315?v=4",
   "links": [
     {
       "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
+      "url": "https://www.instagram.com/isyuricunha/",
       "icon": "instagram"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://twitter.com/isyuricunha",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/isyuricunha/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/isyuricunha/",
       "icon": "github"
     },
-    {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
-    }
   ]
 }
