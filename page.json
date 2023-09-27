@@ -1,6 +1,6 @@
 {
   "name": "Yuri Cunha",
-  "description": "Junior Database Administrator",
+  "description": "Senior Database Administrator\n<br />please don't say just hello in my dms or be prepared to be ignored",
   "image_url": "https://avatars.githubusercontent.com/u/115634315?v=4",
   "links": [
     {
@@ -12,6 +12,11 @@
       "title": "Twitter",
       "url": "https://twitter.com/isyuricunha",
       "icon": "twitter"
+    },
+    {
+      "title": "Telegram",
+      "url": "https://t.me/isyuricunha",
+      "icon": "telegram"
     },
     {
       "title": "LinkedIn",
