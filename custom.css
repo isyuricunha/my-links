@@ -6,6 +6,10 @@
   color: #ddc808;
 }
 
+.ld-description-container > h2 {
+  color: #ddc808;
+}
+
 .ld-custom-button-container {
   -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
