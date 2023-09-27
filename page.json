@@ -1,6 +1,6 @@
 {
   "name": "Yuri Cunha",
-  "description": "Senior Database Administrator\n<br />please don't say just hello in my dms or be prepared to be ignored",
+  "description": "Senior Database Administrator",
   "image_url": "https://avatars.githubusercontent.com/u/115634315?v=4",
   "links": [
     {
@@ -22,6 +22,11 @@
       "title": "LinkedIn",
       "url": "https://www.linkedin.com/in/isyuricunha/",
       "icon": "linkedin"
+    },
+    {
+      "title": "E-mail",
+      "url": "mailto:me@yuricunha.com",
+      "icon": "mail"
     },
     {
       "title": "Website",
