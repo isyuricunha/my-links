@@ -4,19 +4,19 @@
   "image_url": "https://www.yuricunha.com/static/images/me.jpg",
   "links": [
     {
+      "title": "E-mail",
+      "url": "mailto:me@yuricunha.com",
+      "icon": "mail"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/isyuricunha/",
+      "icon": "github"
+    },
+    {
       "title": "Instagram",
       "url": "https://www.instagram.com/isyuricunha/",
       "icon": "instagram"
-    },
-    {
-      "title": "Twitter",
-      "url": "https://twitter.com/isyuricunha",
-      "icon": "twitter"
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/isyuricunha",
-      "icon": "telegram.svg"
     },
     {
       "title": "LinkedIn",
@@ -24,19 +24,19 @@
       "icon": "linkedin"
     },
     {
-      "title": "E-mail",
-      "url": "mailto:me@yuricunha.com",
-      "icon": "mail"
+      "title": "Telegram",
+      "url": "https://t.me/isyuricunha",
+      "icon": "telegram.svg"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/isyuricunha",
+      "icon": "twitter"
     },
     {
       "title": "Website",
       "url": "https://www.yuricunha.com/",
       "icon": "user"
-    },
-    {
-      "title": "GitHub",
-      "url": "https://github.com/isyuricunha/",
-      "icon": "github"
     }
   ]
 }
