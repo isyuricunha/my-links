@@ -1,42 +1,42 @@
 {
-  "name": "Yuri Cunha",
-  "description": "Senior Database Administrator",
-  "image_url": "https://www.yuricunha.com/static/images/me.jpg",
-  "links": [
-    {
-      "title": "E-mail",
-      "url": "mailto:me@yuricunha.com",
-      "icon": "mail"
-    },
-    {
-      "title": "GitHub",
-      "url": "https://github.com/isyuricunha/",
-      "icon": "github"
-    },
-    {
-      "title": "Instagram",
-      "url": "https://www.instagram.com/isyuricunha/",
-      "icon": "instagram"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/in/isyuricunha/",
-      "icon": "linkedin"
-    },
-    {
-      "title": "Telegram",
-      "url": "https://t.me/isyuricunha",
-      "icon": "telegram"
-    },
-    {
-      "title": "Twitter",
-      "url": "https://twitter.com/isyuricunha",
-      "icon": "twitter"
-    },
-    {
-      "title": "Website",
-      "url": "https://www.yuricunha.com/",
-      "icon": "user"
-    }
-  ]
+	"name": "Yuri Cunha",
+	"description": "Senior Database Administrator",
+	"image_url": "https://www.yuricunha.com/static/images/me.jpg",
+	"links": [
+		{
+			"title": "E-mail",
+			"url": "mailto:contact@yuricunha.com",
+			"icon": "mail"
+		},
+		{
+			"title": "GitHub",
+			"url": "https://github.com/isyuricunha/",
+			"icon": "github"
+		},
+		{
+			"title": "Instagram",
+			"url": "https://www.instagram.com/isyuricunha/",
+			"icon": "instagram"
+		},
+		{
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/isyuricunha/",
+			"icon": "linkedin"
+		},
+		{
+			"title": "Telegram",
+			"url": "https://t.me/isyuricunha",
+			"icon": "telegram"
+		},
+		{
+			"title": "Twitter",
+			"url": "https://twitter.com/isyuricunha",
+			"icon": "twitter"
+		},
+		{
+			"title": "Website",
+			"url": "https://www.yuricunha.com/",
+			"icon": "user"
+		}
+	]
 }
